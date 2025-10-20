@@ -1,0 +1,11 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.card {
+    border-radius: 12px;
+}
+.card-header {
+    border-top-left-radius: 12px !important;
+    border-top-right-radius: 12px !important;
+}
+.form-label {
+    color: #333;
+}
