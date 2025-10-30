@@ -7,12 +7,12 @@ Built with flexibility, scalability, and performance in mind — this system is 
 
 ##  Features
 
-### 👥 User Roles
-- **Customer:**  
+###  User Roles
+- Customer: 
   - Register, log in, and manage their profile.  
   - Browse available services.  
   - Make new bookings and view booking history.  
-- **Staff:**  
+- Staff: 
   - View assigned bookings.  
   - Approve, reject, or mark bookings as completed.  
   - Manage availability and assigned services.  
