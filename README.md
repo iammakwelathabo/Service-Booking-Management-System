@@ -34,7 +34,6 @@ Built with flexibility, scalability, and performance in mind — this system is 
 ##  1. Installation & Setup
 
 ###  Clone the repository
-```bash
 
 git clone https://github.com/yourusername/Service-Booking-Management-System.git
 cd Service-Booking-Management-System
@@ -56,3 +55,28 @@ database.default.DBDriver = MySQLi
 
 4. Start the development server
   php spark serve
+
+License
+
+This project is open-source and available under the MIT License.
+
+Thabo Makwela
+
+Full-Stack Developer
+
+platformdeveloping@gmail.com
+
+Preview
+
+
+<img width="1347" height="606" alt="Screenshot 2025-10-30 114631" src="https://github.com/user-attachments/assets/3809f259-0e00-4cf7-ac83-abb809cba6c6" />
+
+<img width="1339" height="606" alt="Screenshot 2025-10-30 114708" src="https://github.com/user-attachments/assets/679501ae-3446-40f6-b8e9-979c0e3caf2f" />
+
+<img width="1360" height="611" alt="Screenshot 2025-10-30 114728" src="https://github.com/user-attachments/assets/e9bfb8f0-83ac-49c8-bd37-20e21b4642e2" />
+
+<img width="1357" height="606" alt="Screenshot 2025-10-30 114743" src="https://github.com/user-attachments/assets/bae3a7f9-5260-4375-b412-093d4c4e5ba0" />
+
+<img width="1346" height="610" alt="Screenshot 2025-10-30 114817" src="https://github.com/user-attachments/assets/257e329c-7448-46ed-9c13-538ee18d0ec3" />
+
+<img width="1354" height="605" alt="Screenshot 2025-10-30 114840" src="https://github.com/user-attachments/assets/050029be-6ea1-44a4-97d0-ad7dfbb419f0" />
